@@ -1,1 +1,3 @@
 git log um comando para verificar os dados de crendenciamento
+
+git statuse um otimo comando
