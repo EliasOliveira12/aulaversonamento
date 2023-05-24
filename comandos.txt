@@ -1,0 +1,1 @@
+git log um comando para verificar os dados de crendenciamento
